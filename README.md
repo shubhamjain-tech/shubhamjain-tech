@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @shubhamjain-tech
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shubhamjain-tech/shubhmjain-tech/main/banner.png" width="100%" />
 </p>
 
-
+<h1 align="center">👋 Hi, I’m @shubhamjain-tech</h1>
 
 <h3 align="center">
 🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | CI/CD
