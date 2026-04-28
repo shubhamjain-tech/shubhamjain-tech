@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubhamjain-tech/shubhmjain-tech/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/shubhamjain-tech/shubhmjain-tech/main/DevOps_Tools.png" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I’m @shubhamjain-tech</h1>
