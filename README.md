@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/shubhamjain-tech/shubhmjain-tech/main/banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm shubham Jain</h1>
+
 
 <h3 align="center">
 🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | CI/CD
