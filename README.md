@@ -1,37 +1,43 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubhamjain-tech/shubhamjain-tech/main/DevOps_Tools.png" width="100%" />
+  <img src="[raw.githubusercontent.com](https://raw.githubusercontent.com/shubhamjain-tech/shubhamjain-tech/main/DevOps_Tools.png)" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I’m @shubhamjain-tech</h1>
 
 <h3 align="center">
-🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | CI/CD
+🚀 DevOps & MLOps Engineer | AWS | Docker | Kubernetes | Terraform | CI/CD | LLMOps
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&center=true&vCenter=true&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI/CD+Automation+Expert" />
+  <img src="[readme-typing-svg.herokuapp.com](https://readme-typing-svg.herokuapp.com?color=00C6FF&center=true&vCenter=true&lines=DevOps+Engineer;MLOps+%26+LLMOps+Enthusiast;AWS+%7C+Kubernetes+%7C+Terraform;CI/CD+%7C+AI+Pipeline+Automation)" />
 </p>
 
 <p align="center">
-💡 Building scalable cloud infrastructure | ⚙️ Automating deployments | 🔐 DevSecOps Enthusiast  
+💡 Building scalable cloud & AI infrastructure | ⚙️ Automating deployments & ML pipelines | 🤖 LLM/GenAI & DevSecOps Enthusiast  
 </p>
 
 <p align="center">
-📍 India | 🎯 Open to DevOps / Cloud Engineer Roles
+📍 India | 🎯 Open to DevOps / Cloud / MLOps / LLMOps Roles
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-✔ Hands-on with **AWS (EKS, EC2, S3, IAM, VPC, RDS, ECR)**  
+✔ Hands-on with **AWS (EKS, EC2, S3, IAM, VPC, RDS, ECR, CloudFront)**  
 ✔ Containerization & orchestration using **Docker & Kubernetes (EKS, Minikube)**  
 ✔ CI/CD automation with **GitHub Actions & Jenkins**  
 ✔ Monitoring & observability using **Prometheus, Grafana & CloudWatch**  
 ✔ DevSecOps practices using **Trivy & SonarQube**  
 ✔ Strong in **Linux, Shell Scripting & Server Management**  
 ✔ Experience with **Nginx, Apache HTTPD & reverse proxy setups**  
+
+🤖 **AI / MLOps / LLMOps**  
+✔ Experience containerizing and deploying **ML/AI microservices** on Kubernetes (EKS)  
+✔ Integrated **model inference services** into CI/CD pipelines for automated rollout & rollback  
+✔ Hands-on with **OpenAI / LLM-based services**, REST APIs, and secure secret management (AWS Secrets Manager, SSM)  
+✔ Implemented logging & monitoring for **AI inference latencies, error rates & performance SLOs** using Prometheus & Grafana  
+✔ Familiar with workflow/orchestration tools and patterns for **data/ML pipelines** (Git-based workflows, IaC, CI triggers)  
 
 📫 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/shubham-jain-685520148/) | [Email](mailto:shubhamjain9005@outlook.com)
@@ -53,6 +59,7 @@
 - 🐳 Containerization (Docker, Kubernetes)  
 - 📊 Monitoring & Observability (Prometheus, Grafana)  
 - 🔐 DevSecOps (Trivy, SonarQube)  
+- 🤖 AI/MLOps & LLMOps (Cloud-native deployment of AI/LLM workloads, observability, security)  
 
 ---
 
@@ -62,11 +69,12 @@
 |-----------|--------|
 | ☁️ Cloud | AWS (EC2, S3, EKS, RDS, CloudFront, IAM, VPC) |
 | 🐳 Containers | Docker, Kubernetes, Minikube |
-| ⚙️ Automation | Terraform, Jenkins, GitHub Actions |
+| ⚙️ Automation | Terraform, Jenkins, GitHub Actions, Ansible |
 | 📊 Monitoring | Prometheus, Grafana, CloudWatch |
 | 🌐 Web Servers | Nginx, Apache HTTPD |
 | 💾 Databases | PGSQL, MongoDB |
 | 💻 OS & CLI | Linux (Ubuntu), Bash scripting |
+| 🤖 AI / LLM | OpenAI API, REST-based AI services, JSON-based AI integrations, Secrets Manager |
 
 ---
 
@@ -76,70 +84,85 @@
 
 #### Tech Stack: AWS, EKS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Ansible, Prometheus, Grafana, SonarQube, Trivy
 
-Designed and implemented end-to-end CI/CD pipelines using Jenkins & GitHub Actions for microservices deployment
-Migrated applications from Docker Compose to Kubernetes (Amazon EKS), improving scalability and availability
-Built and optimized Docker images (multi-stage builds) for frontend, backend, and microservices
-Implemented Kubernetes Ingress & AWS Load Balancer for efficient traffic routing and high availability
-Integrated SonarQube and Trivy scans to enhance code quality and container security
-Automated infrastructure provisioning using Terraform and configuration management using Ansible
-Managed database migrations using Flyway, ensuring consistent schema deployment
-Set up Prometheus & Grafana monitoring for real-time observability and alerting
-Automated application configuration and reduced manual intervention using scripting (Bash/Python)
-Troubleshot CI/CD pipelines, Kubernetes deployments, and production issues in Linux environments
+- Designed and implemented end-to-end CI/CD pipelines using **Jenkins & GitHub Actions** for microservices deployment  
+- Migrated applications from **Docker Compose to Kubernetes (Amazon EKS)**, improving scalability and availability  
+- Built and optimized **Docker images (multi-stage builds)** for frontend, backend, and microservices  
+- Implemented **Kubernetes Ingress & AWS Load Balancer** for efficient traffic routing and high availability  
+- Integrated **SonarQube and Trivy scans** to enhance code quality and container security  
+- Automated **infrastructure provisioning using Terraform** and configuration management using **Ansible**  
+- Managed **database migrations using Flyway**, ensuring consistent schema deployment  
+- Set up **Prometheus & Grafana monitoring** for real-time observability and alerting  
+- Automated application configuration and reduced manual intervention using **scripting (Bash/Python)**  
+- Troubleshot **CI/CD pipelines, Kubernetes deployments, and production issues** in Linux environments  
 
+#### 🤖 AI / MLOps Angle (where applicable)
+
+- Prepared infrastructure patterns suitable for **ML/AI microservices** (stateless deployments, HPA, blue/green & rolling updates)  
+- Standardized **Docker and Helm/K8s templates** that can be reused for AI/LLM inference services  
+- Enabled metrics & logging patterns that support **model performance monitoring** (latency, throughput, error codes)  
 
 #### 🚀 Impact
-Reduced manual deployment effort by ~70% through CI/CD automation
-Improved deployment reliability and release consistency
-Achieved high availability and scalability using Kubernetes (EKS)
-Enhanced security posture with automated vulnerability and code quality scans
-Reduced downtime by proactively monitoring applications and infrastructure
 
-
-#### 💡 Why this version is better
-Combines your real NSE experience + modern tools (EKS, Terraform)
-Sounds practical (not copied/template)
-Covers:
-CI/CD ✅
-Containers ✅
-Kubernetes ✅
-Security ✅
-Monitoring ✅
-Troubleshooting ✅
+- Reduced manual deployment effort by **~70%** through CI/CD automation  
+- Improved deployment reliability and release consistency  
+- Achieved **high availability and scalability** using Kubernetes (EKS)  
+- Enhanced security posture with **automated vulnerability and code quality scans**  
+- Reduced downtime by **proactively monitoring** applications and infrastructure  
 
 ---
 
 ### 🏗️ AWS Three-Tier Architecture  
+
 - Designed and deployed a secure and scalable **three-tier web app** using AWS services  
 - Used **Docker + Kubernetes (EKS)** for container orchestration  
-- Automated builds and deployments using **CI/CD pipelines**
-
-### 🔁 Web Hosting Comparison  
-- Hosted and compared a website using **Nginx** and **Apache HTTPD**  
-- Configured **Nginx** as a reverse proxy and **Apache** for dynamic content
+- Automated builds and deployments using **CI/CD pipelines**  
+- Designed the architecture to be **ML/AI-ready** (clear service boundaries, API gateways, secure VPC design) so AI services or LLM-based features can be easily integrated later  
 
 ---
+
+### 🔁 Web Hosting Comparison  
+
+- Hosted and compared a website using **Nginx** and **Apache HTTPD**  
+- Configured **Nginx** as a reverse proxy and **Apache** for dynamic content  
+- Tuned configs for better **performance, caching, and TLS**, suitable for high-traffic APIs including AI/LLM endpoints  
+
+---
+
+### 🤖 AI/LLM Integration Demo (DevOps & Infra Focus)
+
+- Designed a reference setup to **deploy an LLM/AI inference API** behind Nginx and AWS ALB  
+- Containerized an example AI service and deployed it on **EKS** using GitHub Actions CI/CD  
+- Implemented **rate limiting, logging, and basic auth/token-based security** for AI endpoints  
+- Collected metrics for **request latency, token usage (where applicable), and error rates** using Prometheus & Grafana  
+
+---
+
 ## 🌱 Currently Learning  
 
-- Advanced Kubernetes (Helm, HPA)  
-- GitOps (ArgoCD)  
+- Advanced Kubernetes (**Helm, HPA, service mesh**)  
+- **GitOps (ArgoCD)**  
 - Cloud Security & DevSecOps practices  
+- **MLOps & LLMOps best practices** (model delivery, canary releases for models, feature flags, AI observability)  
+- AI tooling & platforms (OpenAI, vector-store integrations, prompt and config versioning)  
+
 ---
 
 ## 📈 GitHub Analytics  
 
-![Shubham GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamjain-tech&show_icons=true&theme=radical)
+![Shubham GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamjain-tech&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjain-tech&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamjain-tech&theme=radical)
 
 ---
 
 ## 🏆 Trophies  
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=shubhamjain-tech&theme=radical&margin-w=10&margin-h=10)
 
 ---
 
 ## 🛠️ Badges  
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -167,6 +190,7 @@ Troubleshooting ✅
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
 ## ⚙️ CI/CD Pipeline Flow  
 
 ```mermaid
@@ -178,29 +202,3 @@ flowchart LR
     E --> F[Push to ECR]
     F --> G[Deploy to EKS]
     G --> H[Monitoring]
-```
-
-<p align="center">
-  <img src="./CI_CD pipeline flow diagram.png" width="800"/>
-</p>
----
-
-## 📊 Activity Graph  
-
-[![Shubham GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamjain-tech&theme=radical)](https://github.com/shubhamjain-tech)
-
----
-
-## 👀 Visitor Counter  
-![Visitor Count](https://komarev.com/ghpvc/?username=shubhamjain-tech&label=Visitors&color=0e75b6&style=flat)
-
----
-
-## 💬 Daily DevOps Quote  
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!---
-shubhamjain-tech/shubhamjain-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
